@@ -1,0 +1,24 @@
+# auto: true
+
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+permalink: /:title
+encoding: UTF-8
+gems: [jekyll-paginate]
+
+title: study ,not water
+url: http://liuxiao214.github.io
+feed: /atom.xml
+author_info: <a href="http://liuxiao214.github.io/">liuxiao214</a>
+
+myblog:
+  gavatar: images/liuxiao214.png
+  gpname: liuxiao
+  csdn: http://my.csdn.net/liuxiao214
+  github: https://github.com/liuxiao214
+  email: liu_xiao@bupt.edu.cn
+  coverimgs: []
+  postbgimg: []
+
+categories: [python, books]
